@@ -1,3 +1,4 @@
+using System.Diagnostics;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -17,6 +18,10 @@ public class MyNewScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        // Check PlayerHealth
+        if (PlayerHealth == 100)
+        {
+            Debug.Log ("Player has full health");
+        }
     }
 }
