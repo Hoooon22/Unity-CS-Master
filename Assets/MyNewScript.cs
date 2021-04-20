@@ -21,7 +21,7 @@ public class MyNewScript : MonoBehaviour
         // Check PlayerHealth
         if (PlayerHealth == 100)
         {
-            UnityEngine.Debug.Log ("Player has full health");
+            UnityEngine.Debug.Log("Player has full health");
         }
     }
 }
