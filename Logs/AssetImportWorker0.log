@@ -178,3 +178,4 @@ Received Import Request.
 Start importing Assets/MyScriptFile.cs using Guid(675d92ae8228bc2488f5ab79af694781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ad2c8d1647ccefc37800950e66857c5') in 0.035810 seconds
   Import took 0.039330 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
