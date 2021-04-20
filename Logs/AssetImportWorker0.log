@@ -94,3 +94,31 @@ System memory in use after: 57.1 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1561.
 Total: 3.797600 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.056700 ms MarkObjects: 3.386400 ms  DeleteObjects: 0.121500 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 545.814468 seconds.
+  path: Assets/MyScriptFile.cs
+  artifactKey: Guid(675d92ae8228bc2488f5ab79af694781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyScriptFile.cs using Guid(675d92ae8228bc2488f5ab79af694781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2234ccac6978debb777d70b8ac7b1330') in 0.032612 seconds
+  Import took 0.036239 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000764 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.352 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.46 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.1 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 3.865400 ms (FindLiveObjects: 0.253900 ms CreateObjectMapping: 0.054900 ms MarkObjects: 3.442100 ms  DeleteObjects: 0.111700 ms)
+
