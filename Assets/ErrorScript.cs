@@ -9,12 +9,12 @@ public class ErrorScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        mynumber = 7;
+        MyNumber = 7;
     }
 
     // Update is called once per frame
     void Update()
     {
-        mynumber = 10;    
+        MyNumber = 10;    
     }
 }
