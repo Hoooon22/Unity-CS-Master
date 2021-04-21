@@ -15,6 +15,7 @@ public class ErrorScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        MyNumber = 10;    
+        MyNumber = 10;  
+        Debug.Log(MyNumber); 
     }
 }
