@@ -74,3 +74,32 @@ Received Import Request.
 Start importing Assets/MyScriptFile.cs using Guid(675d92ae8228bc2488f5ab79af694781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fc62801618af2d3fc400a8f09b07ab7') in 0.422080 seconds
   Import took 0.423785 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001551 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1112 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.0 MB.
+System memory in use after: 57.1 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 6.245400 ms (FindLiveObjects: 0.395400 ms CreateObjectMapping: 0.151100 ms MarkObjects: 5.532100 ms  DeleteObjects: 0.162000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.910734 seconds.
+  path: Assets/MyScriptFile.cs
+  artifactKey: Guid(675d92ae8228bc2488f5ab79af694781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MyScriptFile.cs using Guid(675d92ae8228bc2488f5ab79af694781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '861f3460ff4278e38cd7e7b1fc1310c6') in 0.006283 seconds
+  Import took 0.009100 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
