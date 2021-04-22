@@ -18,7 +18,6 @@ public class MyScriptFile : MonoBehaviour
         // GameObject.Find 함수를 사용해 씬의 오브젝트를 이름으로 찾는다
         MyObjects[1] = GameObject.Find("Cube");
         MyObjects[2] = GameObject.Find("Cylinder");
-        
     }
 
     // Update is called once per frame
