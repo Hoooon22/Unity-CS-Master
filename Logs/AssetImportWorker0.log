@@ -186,3 +186,32 @@ System memory in use after: 57.4 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1576.
 Total: 2.991800 ms (FindLiveObjects: 0.230900 ms CreateObjectMapping: 0.057100 ms MarkObjects: 2.617700 ms  DeleteObjects: 0.084100 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.179 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1579.
+Total: 2.295500 ms (FindLiveObjects: 0.189600 ms CreateObjectMapping: 0.036100 ms MarkObjects: 1.989300 ms  DeleteObjects: 0.078800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 613.760901 seconds.
+  path: Assets/ObjectFinder.cs
+  artifactKey: Guid(83bdb509d2d2bb14797319e4fe22c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjectFinder.cs using Guid(83bdb509d2d2bb14797319e4fe22c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1eb73d3d5beba9cc8efe415c49386cc') in 0.036242 seconds
+  Import took 0.038780 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
