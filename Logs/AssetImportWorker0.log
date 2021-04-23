@@ -150,3 +150,39 @@ System memory in use after: 57.4 MB.
 Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 1572.
 Total: 2.389000 ms (FindLiveObjects: 0.293700 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.975600 ms  DeleteObjects: 0.076200 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 3993.335813 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffd29b19f530ebf5add4f1242b37fe94') in 0.075962 seconds
+  Import took 0.082262 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 290.933350 seconds.
+  path: Assets/ObjectFinder.cs
+  artifactKey: Guid(83bdb509d2d2bb14797319e4fe22c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ObjectFinder.cs using Guid(83bdb509d2d2bb14797319e4fe22c058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7aad4d692f8d512df472dec1ddbdd21') in 0.032824 seconds
+  Import took 0.036045 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001157 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.500 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1576.
+Total: 2.991800 ms (FindLiveObjects: 0.230900 ms CreateObjectMapping: 0.057100 ms MarkObjects: 2.617700 ms  DeleteObjects: 0.084100 ms)
+
