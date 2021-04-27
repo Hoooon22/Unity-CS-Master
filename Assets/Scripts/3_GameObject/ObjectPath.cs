@@ -32,5 +32,4 @@ public class ObjectPath : MonoBehaviour
     {
         Gizmos.DrawLine(transform.position, Enemy.transform.position);
     }
-
 }
