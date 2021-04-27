@@ -10,6 +10,7 @@ public class ObjectPath : MonoBehaviour
 
     // 선 검출을 제한하기 위한 레이어 마스크
     public LayerMask LM;
+    public RaycastHit RH;
 
     // Update is called once per frame
     void Update()
@@ -19,6 +20,11 @@ public class ObjectPath : MonoBehaviour
         {
             // 빈 경로가 존재한다.
             Debug.Log ("Path clear");
+        }
+        else
+        {
+            // 빈 경로가 존재하지 않는다.
+            Debug.Log ("Path blocked");
         }
     }
 
