@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Parenter : MonoBehaviour
 {
-    // 씬의 자식 오브젝트에 대한 참조 
+    // 씬의 자식 오브젝트에 대한 참조
     
 
     // Start is called before the first frame update
